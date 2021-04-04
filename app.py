@@ -14,6 +14,10 @@ git commit многострочный комментарий в отдельно
     git config --global user.email "kiraweigel4660@gmail.com" 
     git config --global user.name "kiraweigel"
 
+ssh keys находятся в папке  C:\Users\borov\.ssh
+
+при создании репозитория на гихабе внизу есть мануал 2 как соединить с локальным репозиторием
+
 git push origin main
 
 git pull 
